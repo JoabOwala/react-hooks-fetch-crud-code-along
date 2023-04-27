@@ -35,6 +35,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "banana yogurt",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "samaki",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "punda",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "mahindi",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
     }
   ]
 }
