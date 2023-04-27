@@ -35,6 +35,12 @@
       "category": "Produce",
       "isInCart": false,
       "id": 10
+    },
+    {
+      "name": "apple juice",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
     }
   ]
 }

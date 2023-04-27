@@ -33,7 +33,7 @@ function ShoppingList() {
 
   //updating State
   function handleAddItem(newItem){
-    setItems(...items, newItem)
+    setItems([...items, newItem])
   }
 
   function handleCategoryChange(category) {

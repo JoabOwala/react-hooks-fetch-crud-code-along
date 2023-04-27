@@ -7,7 +7,7 @@ function ItemForm({ onAddItem }) {
   //Add function to handle submissions
 
   function handleSubmit(e){
-    e.preventDefault()
+    e.preventDefault();
     const itemData = {
       name: name,
       category: category,
